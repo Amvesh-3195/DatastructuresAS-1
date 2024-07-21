@@ -1,0 +1,5 @@
+Preorder traversal: 45 15 90 20 50 10 79 55 12 
+Inorder traversal: 20 90 50 15 10 45 55 79 12 
+Postorder traversal: 20 50 90 10 15 55 12 79 45 
+Level order traversal: 45 15 79 90 10 55 12 20 50 
+Inorder traversal after deletion: 50 90 15 10 45 55 79 12

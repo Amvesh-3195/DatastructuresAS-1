@@ -1,0 +1,11 @@
+Enter the total number of terms in the polynomial:3
+
+ Enter the COEFFICIENT and EXPONENT in DESCENDING ORDER
+Enter the Coefficient(1): 4
+Enter the exponent(1): 6
+Enter the Coefficient(2): 4
+Enter the exponent(2): 2
+Enter the Coefficient(3): 8
+Enter the exponent(3): 2
+
+ First polynomial: 4(x^6)+4(x^2)+8(x^2)

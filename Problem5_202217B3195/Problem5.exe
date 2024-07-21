@@ -1,0 +1,23 @@
+Queue using Array
+1. Insertion 
+2. Deletion 
+3. Display 
+4. Exit
+Enter the Choice:1
+
+Enter no 1: 56
+
+Enter the Choice:1
+
+Enter no 2: 79
+
+Enter the Choice:1
+
+Enter no 3: 85
+
+Enter the Choice:3
+
+Queue Elements are:
+56 79 85 
+
+Enter the Choice:
